@@ -1,5 +1,5 @@
-title: UHL | Homelab Guides
-description: Lab guides put together by the Utah Homelabs community for the benefit of all
+title: Homelab Guides
+description: Lab guides put together by the Utah Homelabs community
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme
